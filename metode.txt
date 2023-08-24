@@ -1,0 +1,3 @@
+Metode yang saya gunakan pada pengembangan sistem ini adalah metode spiral.
+Metode Spiral sendiri yaitu metode gabungan dari model Prototyping dan model 
+waterfall dengan penekanan yang tinggi pada analisis resiko pada tiap tahapanya. Dalam model spiral ada 5 tahap untuk merealisasikan penggunaanya, yaitu tahap liason, tahap planning, tahap analisis risiko, tahap rekayasa (engineering), dan tahap evaluasi.
